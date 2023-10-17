@@ -1,6 +1,6 @@
 {
   "name": "react-kvn-funnel",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A small footprint coponent for creating funnels in React.",
   "author": "Kevin Abestilla",
   "license": "MIT",
